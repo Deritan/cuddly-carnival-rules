@@ -1,6 +1,7 @@
 payload:
 - DOMAIN,2ip.io
 - PROCESS-NAME,LeagueClient.exe
+- PROCESS-NAME,com.farlightgames.igame.gp
 
 
 
