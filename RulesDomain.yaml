@@ -1,9 +1,4 @@
 payload:
-  - DOMAIN,2ip.io
+  - DOMAIN,hanime.tv
   - PROCESS-NAME,LeagueClient.exe
   - PROCESS-NAME,com.farlightgames.igame.gp
-  - DOMAIN-SUFFIX,hanime.tv
-  - DOMAIN-KEYWORD,hanime
-  - DOMAIN-SUFFIX,hanime.tv
-  - DOMAIN,example.com
-
