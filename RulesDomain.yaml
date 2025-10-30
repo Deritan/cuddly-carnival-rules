@@ -1,3 +1,6 @@
-DOMAIN-KEYWORD, 2ip, PROXY
-PROCESS-NAME, LeagueClient.exe, PROXY
+payload:
+- DOMAIN-KEYWORD, 2ip
+- PROCESS-NAME, LeagueClient.exe
+
+
 
