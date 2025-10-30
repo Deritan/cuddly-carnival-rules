@@ -3,5 +3,5 @@ payload:
   - PROCESS-NAME,LeagueClient.exe
   - PROCESS-NAME,com.farlightgames.igame.gp
   - DOMAIN-SUFFIX,hanime.tv
-  - DOMAIN,hanime.tv,PROXY
-  - DOMAIN,hanime-cdn.com
+  - DOMAIN-KEYWORD,hanime
+  - DOMAIN-SUFFIX,hanime.tv
