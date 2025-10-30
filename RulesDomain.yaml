@@ -6,8 +6,8 @@ payload:
 - DOMAIN,hanime.tv
 - DOMAIN,www.hanime.tv
 - DOMAIN,hanime-cdn.com
-# на всякий случай — если движок понимает wildcard
 - DOMAIN,*.hanime.tv
+
 
 
 
