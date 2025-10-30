@@ -5,7 +5,8 @@ payload:
 - DOMAIN-SUFFIX,hanime.tv
 - DOMAIN-KEYWORD,hanime
 - GEOSITE,hanime
-- IP-CIDR,176.67.181.145
+- SRC-IP-CIDR,176.67.181.145/32
+
 
 
 
