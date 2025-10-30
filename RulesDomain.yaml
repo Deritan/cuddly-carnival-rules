@@ -2,3 +2,5 @@ payload:
 - DOMAIN,hanime.tv
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,com.farlightgames.igame.gp
+- PROCESS-NAME,com.duckduckgo.mobile.android
+
