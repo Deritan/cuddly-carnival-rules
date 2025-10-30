@@ -1,6 +1,7 @@
 payload:
-- DOMAIN-KEYWORD, 2ip
-- PROCESS-NAME, LeagueClient.exe
+- DOMAIN-SUFFIX,2ip.io
+- PROCESS-NAME,LeagueClient.exe
+
 
 
 
