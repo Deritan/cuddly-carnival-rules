@@ -1,2 +1,3 @@
-DOMAIN,2ip.io,PROXY
-PROCESS-NAME,LeagueClient.exe,PROXY
+DOMAIN-KEYWORD, 2ip, PROXY
+PROCESS-NAME, LeagueClient.exe, PROXY
+
