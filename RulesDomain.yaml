@@ -5,5 +5,7 @@ payload:
 - PROCESS-NAME,com.farlightgames.igame.gp
 - PROCESS-NAME,com.duckduckgo.mobile.android
 - PROCESS-NAME,com.smilegate.chaoszero.stove.google
+- PROCESS-NAME,Discord.exe
+
 
 
