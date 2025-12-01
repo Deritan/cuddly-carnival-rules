@@ -7,57 +7,9 @@ payload:
 - PROCESS-NAME,com.smilegate.chaoszero.stove.google
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,discort
-- DOMAIN,signin.aws.amazon.com
-- DOMAIN,cloudfront.net
-- DOMAIN,s3.amazonaws.com
-- DOMAIN,awsstatic.com
-- DOMAIN,console.aws.a2z.com
-- DOMAIN,amazonaws.com
-- DOMAIN,awsapps.com
-- DOMAIN,sso.amazonaws.com
-- DOMAIN,deadbydaylight.com
-- DOMAIN,deadbydaylight.fandom.com
-- DOMAIN,argotunnel.com
-- DOMAIN,cfargotunnel.com
-- DOMAIN,cfl.re
-- DOMAIN,cloudflare-dns.com
-- DOMAIN,cloudflare-ech.com
-- DOMAIN,cloudflare-esni.com
-- DOMAIN,cloudflare-gateway.com
-- DOMAIN,cloudflare-quic.com
-- DOMAIN,cloudflare.com
-- DOMAIN,cloudflare.net
-- DOMAIN,cloudflare.tv
-- DOMAIN,cloudflareaccess.com
-- DOMAIN,cloudflareapps.com
-- DOMAIN,cloudflarebolt.com
-- DOMAIN,cloudflareclient.com
-- DOMAIN,cloudflareinsights.com
-- DOMAIN,cloudflareok.com
-- DOMAIN,cloudflarepartners.com
-- DOMAIN,cloudflareportal.com
-- DOMAIN,cloudflarepreview.com
-- DOMAIN,cloudflareresolve.com
-- DOMAIN,cloudflaressl.com
-- DOMAIN,cloudflarestatus.com
-- DOMAIN,cloudflarestorage.com
-- DOMAIN,cloudflarestream.com
-- DOMAIN,cloudflaretest.com
-- DOMAIN,cloudflarewarp.com
-- DOMAIN,every1dns.net
-- DOMAIN,isbgpsafeyet.com
-- DOMAIN,one.one.one.one
-- DOMAIN,one.one.one
-- DOMAIN,pacloudflare.com
-- DOMAIN,pages.dev
-- DOMAIN,trycloudflare.com
-- DOMAIN,videodelivery.net
-- DOMAIN,warp.plus
-- DOMAIN,workers.dev
-- DOMAIN,ubmidrupalcandd.s3-eu-west-1.amazonaws.com
-- DOMAIN,j2-antiblock.s3-website.eu-west-3.amazonaws.com
-- DOMAIN,fliba-title.s3-website-eu-west-1.amazonaws.com
-- DST-PORT,6695-6699
+- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6695-6699))
+
+
 
 
 
