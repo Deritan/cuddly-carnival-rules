@@ -8,6 +8,9 @@ payload:
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,discort
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6695-6699))
+- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6705-6710))
+
+
 
 
 
