@@ -8,7 +8,8 @@ payload:
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,discort
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
-- AND,((PROCESS-NAME,Warframe.x64.exe),(DOMAIN,store.steampowered.com))
+- AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
+
 
 
 
