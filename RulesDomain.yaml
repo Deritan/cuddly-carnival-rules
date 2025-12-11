@@ -7,7 +7,8 @@ payload:
 - PROCESS-NAME,com.smilegate.chaoszero.stove.google
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,discort
-- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6695-6699),(DST-PORT,6700-6710))
+- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
 
 
 
