@@ -1,6 +1,9 @@
 payload:
 - DOMAIN,hanime.tv
 - DOMAIN,perplexity.ai
+- DOMAIN,suggest.perplexity.ai
+- DOMAIN-KEYWORD,perplexity
+- DOMAIN-SUFFIX,perplexity.ai
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,ssr-stove-shield.exe
 - PROCESS-NAME,com.farlightgames.igame.gp
@@ -11,6 +14,7 @@ payload:
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN-SUFFIX,store.steampowered.com))
+
 
 
 
