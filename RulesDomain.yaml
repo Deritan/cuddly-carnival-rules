@@ -3,6 +3,7 @@ payload:
 - DOMAIN-KEYWORD,googleapis.com
 - DOMAIN-KEYWORD,googlevideo.com
 - DOMAIN-KEYWORD,yt3.ggpht.com
+- DOMAIN-KEYWORD,i.ytimg.com
 - DOMAIN,hanime.tv
 - DOMAIN,github.com
 - DOMAIN,pornhub.com
@@ -23,6 +24,7 @@ payload:
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN-SUFFIX,store.steampowered.com))
+
 
 
 
