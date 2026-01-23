@@ -1,5 +1,7 @@
 payload:
 - DOMAIN,hanime.tv
+- DOMAIN,github.com
+- DOMAIN,pornhub.com
 - DOMAIN,perplexity.ai
 - DOMAIN,suggest.perplexity.ai
 - DOMAIN-KEYWORD,perplexity
@@ -17,6 +19,7 @@ payload:
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN-SUFFIX,store.steampowered.com))
+
 
 
 
