@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "hanime.tv",
+        "suggest.perplexity.ai"
+      ],
+      "domain_suffix": [
+        "youtube.com",
+        "googlevideo.com",
+        "ytimg.com",
+        "yt3.ggpht.com",
+        "googleapis.com",
+        "perplexity.ai",
+        "github.com",
+        "githubusercontent.com",
+        "pornhub.com"
+      ],
+      "domain_keyword": [
+        "perplexity"
+      ]
+    }
+  ]
+}
