@@ -5,6 +5,7 @@ payload:
 - DOMAIN-KEYWORD,yt3.ggpht.com
 - DOMAIN-KEYWORD,i.ytimg.com
 - DOMAIN,hanime.tv
+- DOMAIN,2ip.ru
 - DOMAIN,github.com
 - DOMAIN,pornhub.com
 - DOMAIN,perplexity.ai
@@ -24,6 +25,7 @@ payload:
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
 - AND,((PROCESS-NAME,Hydra.exe),(DOMAIN-SUFFIX,store.steampowered.com))
+
 
 
 
