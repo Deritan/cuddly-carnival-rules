@@ -3,3 +3,5 @@ geoip:telegram
 keyword:perplexity
 keyword:telegram
 domain:telegram.org
+keyword:t.me
+domain:t.me
