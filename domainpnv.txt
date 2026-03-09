@@ -1,1 +1,2 @@
-
+geosite:ru-blocked
+geoip:telegram
