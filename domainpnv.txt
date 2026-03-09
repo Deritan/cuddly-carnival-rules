@@ -1,2 +1,3 @@
 geosite:ru-blocked
 geoip:telegram
+keyword:perplexity
