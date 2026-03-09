@@ -1,4 +1,2 @@
 domain:dreawdwdqqwfqw.com
 domain:youtube.com
-domain:telegram.org
-keyword:telegram
