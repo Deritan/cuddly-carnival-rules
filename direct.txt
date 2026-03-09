@@ -1,1 +1,7 @@
 domain:2ip.ru
+domain:gosuslugi.ru
+domain:sberbank.ru
+domain:tinkoff.ru
+domain:nalog.ru
+domain:mos.ru
+geosite:ru-available-only-inside
