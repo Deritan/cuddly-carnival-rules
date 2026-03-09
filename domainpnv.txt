@@ -1,4 +1,4 @@
-geosite:ru-blocked
+geosite:ru-blocked-all
 keyword:perplexity
 keyword:telegram
 domain:telegram.org
