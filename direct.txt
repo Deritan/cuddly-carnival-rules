@@ -1,5 +1,4 @@
 domain:2ip.ru
-keyword:gryphline
 domain:gosuslugi.ru
 domain:sberbank.ru
 domain:tinkoff.ru
