@@ -5,3 +5,4 @@ domain:tinkoff.ru
 domain:nalog.ru
 domain:mos.ru
 geosite:ru-available-only-inside
+domain:richarsforetydfp.duckdns.org
