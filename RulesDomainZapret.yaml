@@ -1,5 +1,6 @@
-- DOMAIN-KEYWORD,youtube
-- DOMAIN-KEYWORD,googleapis
-- DOMAIN-KEYWORD,googlevideo
-- DOMAIN-KEYWORD,yt3.ggpht
-- DOMAIN-KEYWORD,i.ytimg
+payload:
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,yt3.ggpht
+  - DOMAIN-KEYWORD,i.ytimg
