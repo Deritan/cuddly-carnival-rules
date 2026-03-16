@@ -1,1 +1,25 @@
-
+payload:
+- DOMAIN-KEYWORD,rutracker
+- DOMAIN-KEYWORD,discord
+- DOMAIN-KEYWORD,gravityshavings.net
+- DOMAIN-KEYWORD,deadorbit.net
+- DOMAIN,hanime.tv
+- DOMAIN,github.com
+- DOMAIN,pornhub.com
+- DOMAIN,perplexity.ai
+- DOMAIN,suggest.perplexity.ai
+- DOMAIN-KEYWORD,perplexity
+- DOMAIN-SUFFIX,perplexity.ai
+- PROCESS-NAME,nu.gpu.nagram
+- PROCESS-NAME,LeagueClient.exe
+- PROCESS-NAME,ssr-stove-shield.exe
+- PROCESS-NAME,com.farlightgames.igame.gp
+- PROCESS-NAME,com.duckduckgo.mobile.android
+- PROCESS-NAME,com.smilegate.chaoszero.stove.google
+- PROCESS-NAME,xyz.nextalone.nagram
+- PROCESS-NAME,com.whatsapp
+- PROCESS-NAME,Discord.exe
+- PROCESS-NAME,discort
+- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+- AND,((PROCESS-NAME,Hydra.exe),(DOMAIN,store.steampowered.com))
+- AND,((PROCESS-NAME,Hydra.exe),(DOMAIN-SUFFIX,store.steampowered.com))
