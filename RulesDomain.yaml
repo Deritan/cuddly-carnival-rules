@@ -15,6 +15,7 @@ payload:
 - DOMAIN,suggest.perplexity.ai
 - DOMAIN-KEYWORD,perplexity
 - DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN,api-gateway.europe.es-dis.net
 
 
 
