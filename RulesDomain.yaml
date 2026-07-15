@@ -28,7 +28,7 @@ payload:
 - DOMAIN,ac-fallback.codefusion.technology
 - DOMAIN,codefusion.technology
 - DOMAIN-KEYWORD,amazonaws
-
+- DOMAIN-KEYWORD,client2pubsub
 
 
 
