@@ -26,7 +26,7 @@ payload:
 - DOMAIN,ac-prp-ap.codefusion.technology
 - DOMAIN,ac-survey.codefusion.technology
 - DOMAIN,ac-fallback.codefusion.technology
-- DOMAIN,codefusion.technology
+- DOMAIN-KEYWORD,codefusion.technology
 - DOMAIN-KEYWORD,amazonaws
 - DOMAIN-KEYWORD,client2pubsub
 
