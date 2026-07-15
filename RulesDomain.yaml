@@ -30,6 +30,7 @@ payload:
 - DOMAIN-KEYWORD,amazonaws
 - DOMAIN-KEYWORD,client2pubsub
 - DOMAIN-KEYWORD,digitaloceanspaces
+- DOMAIN-KEYWORD,googleusercontent
 
 
 
