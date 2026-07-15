@@ -16,7 +16,16 @@ payload:
 - DOMAIN-KEYWORD,perplexity
 - DOMAIN-SUFFIX,perplexity.ai
 - DOMAIN,api-gateway.europe.es-dis.net
-
+#finals
+- DOMAIN,ac-upd.codefusion.technology
+- DOMAIN,ac-trg.codefusion.technology
+- DOMAIN,ac-rep.codefusion.technology
+- DOMAIN,ac-fileshare.codefusion.technology
+- DOMAIN,ac-knock.codefusion.technology
+- DOMAIN,ac-prp-ap.codefusion.technology
+- DOMAIN,ac-survey.codefusion.technology
+- DOMAIN,ac-fallback.codefusion.technology
+- DOMAIN,codefusion.technology
 
 
 
