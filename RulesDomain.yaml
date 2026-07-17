@@ -75,7 +75,7 @@ payload:
 - DOMAIN,netgrid.host
 - DOMAIN,qwen.ai
 - DOMAIN,alibaba.com
-- DOMAIN,
+- DOMAIN-KEYWORD,gemini
 - DOMAIN,
 
 
