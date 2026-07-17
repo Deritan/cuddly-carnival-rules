@@ -76,7 +76,7 @@ payload:
 - DOMAIN,qwen.ai
 - DOMAIN,alibaba.com
 - DOMAIN-KEYWORD,gemini
-- DOMAIN,.gg
+- DOMAIN,*.gg
 
 
 
