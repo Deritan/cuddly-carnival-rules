@@ -63,6 +63,7 @@ payload:
 - DOMAIN,alibaba.com
 - DOMAIN-KEYWORD,gemini
 - DOMAIN-SUFFIX,gg
+- DOMAIN,hcaptcha.com
 
 
 
