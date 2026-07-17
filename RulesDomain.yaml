@@ -64,6 +64,7 @@ payload:
 - DOMAIN-KEYWORD,gemini
 - DOMAIN-SUFFIX,gg
 - DOMAIN,hcaptcha.com
+- DOMAIN-KEYWORD,hcaptcha
 
 
 
