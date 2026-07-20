@@ -71,7 +71,7 @@ payload:
 - DOMAIN,public-ubiservices.ubi.com
 - DOMAIN-KEYWORD,ubiservices
 - DOMAIN-KEYWORD,speedtest
-- DOMAIN,store.ubi.com
+- DOMAIN-KEYWORD,store.ubi.com
 - DOMAIN-KEYWORD,cdn.ubi
 - DOMAIN-KEYWORD,forhonor
 
