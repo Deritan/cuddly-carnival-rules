@@ -78,8 +78,8 @@ payload:
 - DOMAIN-SUFFIX,ubisoft.com
 - DOMAIN-SUFFIX,dev
 - DOMAIN-SUFFIX,ubisoft.com
-
-
+- DOMAIN-SUFFIX,amazonaws.com
+- DOMAIN-SUFFIX,cloudfront.net
 
 
 
