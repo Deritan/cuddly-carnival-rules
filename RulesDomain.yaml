@@ -75,7 +75,8 @@ payload:
 - DOMAIN-KEYWORD,cdn.ubi
 - DOMAIN-KEYWORD,forhonor
 - DOMAIN-SUFFIX,ubi.com
-
+- DOMAIN-SUFFIX,ubisoft.com
+- DOMAIN-SUFFIX,.dev
 
 
 
