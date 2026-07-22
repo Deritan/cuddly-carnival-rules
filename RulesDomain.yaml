@@ -82,7 +82,11 @@ payload:
 - DOMAIN-SUFFIX,cloudfront.net
 - DOMAIN-SUFFIX,3hentai.net
 - DOMAIN-SUFFIX,akuma.moe
-- DOMAIN-SUFFIX,hanime-cdn.com
+- DOMAIN-SUFFIX,hanime-cdn.com  
+- DOMAIN-SUFFIX,cdninstagram.com
+- DOMAIN-SUFFIX,instagr.am
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-KEYWORD,instagram
 
 
 
