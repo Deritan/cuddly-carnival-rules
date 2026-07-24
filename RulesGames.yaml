@@ -2,3 +2,5 @@ payload:
 - PROCESS-NAME,forhonor.exe
 - PROCESS-NAME,upc.exe
 - PROCESS-NAME,UbisoftConnect.exe
+- PROCESS-NAME,UplayWebCore.exe
+- PROCESS-NAME,UbisoftGameLauncher.exe
