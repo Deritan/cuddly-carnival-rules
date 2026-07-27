@@ -103,7 +103,6 @@ payload:
 - DOMAIN-SUFFIX,github-store.org
 - DOMAIN-SUFFIX,izzysoft.de
 - DOMAIN-SUFFIX,cromite.org
-- DOMAIN-SUFFIX,google.com
 - DOMAIN-SUFFIX,walletbot.me
 - DOMAIN-SUFFIX,matrix.org
 - DOMAIN-SUFFIX,telegram.org
