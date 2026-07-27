@@ -106,7 +106,11 @@ payload:
 - DOMAIN-SUFFIX,google.com
 - DOMAIN-SUFFIX,walletbot.me
 - DOMAIN-SUFFIX,matrix.org
-
+- DOMAIN-SUFFIX,telegram.org
+- DOMAIN-SUFFIX,telegram.me
+- DOMAIN-SUFFIX,t.me
+- DOMAIN-KEYWORD,telegram
+- DOMAIN-KEYWORD,t.me
 
 
 
