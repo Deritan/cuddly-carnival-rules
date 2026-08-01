@@ -3,3 +3,4 @@ payload:
 - PROCESS-NAME,com.google.android.youtube
 - PROCESS-NAME,org.zwanoo.android.speedtest
 - PROCESS-NAME,com.duckduckgo.mobile.android
+- PROCESS-NAME-REGEX,duckduckgo
