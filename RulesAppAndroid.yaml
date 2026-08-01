@@ -2,3 +2,4 @@ payload:
 - PROCESS-NAME,nu.gpu.nagram
 - PROCESS-NAME,com.google.android.youtube
 - PROCESS-NAME,org.zwanoo.android.speedtest
+- PROCESS-NAME,com.duckduckgo.mobile.android
