@@ -1,1 +1,3 @@
-
+payload:
+- PROCESS-NAME,nu.gpu.nagram
+- PROCESS-NAME,com.google.android.youtube
