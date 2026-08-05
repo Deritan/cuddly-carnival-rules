@@ -1,4 +1,5 @@
 payload:
+- PROCESS-NAME,Discord.exe
 - PROCESS-NAME,forhonor.exe
 - PROCESS-NAME,upc.exe
 - PROCESS-NAME,UbisoftConnect.exe
