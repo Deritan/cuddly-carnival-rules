@@ -1,6 +1,4 @@
 payload:
 - DOMAIN,2ip.io
 - DOMAIN-KEYWORD,steam
-# === ARKNIGHTS / ENDFIELD ===
-- DOMAIN-SUFFIX,gryphline.com
-- DOMAIN-SUFFIX,hypergryph.com
+- DOMAIN,redirect-aggregator.vercel.app
