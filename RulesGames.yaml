@@ -6,3 +6,7 @@ payload:
 - PROCESS-NAME,UbisoftConnect.exe
 - PROCESS-NAME,UplayWebCore.exe
 - PROCESS-NAME,UbisoftGameLauncher.exe
+
+- PROCESS-NAME,EasyAntiCheat.exe
+- PROCESS-NAME,EasyAntiCheat_EOS.exe
+- PROCESS-NAME,EasyAntiCheat_x64.exe
