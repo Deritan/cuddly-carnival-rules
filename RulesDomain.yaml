@@ -110,6 +110,7 @@ payload:
 - DOMAIN-SUFFIX,t.me
 - DOMAIN-KEYWORD,telegram
 - DOMAIN-KEYWORD,t.me
+- DOMAIN-SUFFIX,s.youtube.com
 
 
 
