@@ -111,7 +111,10 @@ payload:
 - DOMAIN-KEYWORD,telegram
 - DOMAIN-KEYWORD,t.me
 - DOMAIN-SUFFIX,s.youtube.com
-
+# === DEEZER ===
+- DOMAIN-SUFFIX,deezer.com
+- DOMAIN-SUFFIX,dzcdn.net
+- DOMAIN-KEYWORD,deezer
 
 
 
