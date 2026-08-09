@@ -10,4 +10,5 @@ payload:
 - PROCESS-NAME,EasyAntiCheat.exe
 - PROCESS-NAME,EasyAntiCheat_EOS.exe
 - PROCESS-NAME,EasyAntiCheat_x64.exe
+  # === ShiftAtMidnight ===
 - PROCESS-NAME,ShiftAtMidnight.exe
