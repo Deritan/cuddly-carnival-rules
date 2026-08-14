@@ -2,3 +2,12 @@ payload:
 - DOMAIN,2ip.io
 - DOMAIN-KEYWORD,steam
 - DOMAIN,redirect-aggregator.vercel.app
+
+# энидеск и тд
+- DOMAIN-SUFFIX,anydesk.com
+- DOMAIN-SUFFIX,net.anydesk.com
+- DOMAIN-SUFFIX,ammyy.com
+- DOMAIN-SUFFIX,teamviewer.com
+- DOMAIN-SUFFIX,rustdesk.com
+- DST-PORT,6568
+- DST-PORT,5938
