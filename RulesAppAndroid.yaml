@@ -5,7 +5,7 @@ payload:
 - PROCESS-NAME,com.duckduckgo.mobile.android
 - PROCESS-NAME,com.google.android.googlequicksearchbox
 - PROCESS-NAME,com.google.android.apps.bard
-- PROCESS-NAME-WILDCARD,*discord*
+- PROCESS-NAME-WILDCARD,*discord
 - PROCESS-NAME-WILDCARD,*telegram*
 - PROCESS-NAME-WILDCARD,*whatsapp*
 - PROCESS-NAME-WILDCARD,*gemeni*
