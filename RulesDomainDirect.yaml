@@ -11,3 +11,6 @@ payload:
 - DOMAIN-SUFFIX,rustdesk.com
 - DST-PORT,6568
 - DST-PORT,5938
+
+# google
+- DOMAIN-SUFFIX,google.com
