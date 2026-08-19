@@ -115,7 +115,8 @@ payload:
 - DOMAIN-SUFFIX,deezer.com
 - DOMAIN-SUFFIX,dzcdn.net
 - DOMAIN-KEYWORD,deezer
-
+# === ONLINE CINEMA ===
+- DOMAIN-SUFFIX,liftw.ws
 
 
 
