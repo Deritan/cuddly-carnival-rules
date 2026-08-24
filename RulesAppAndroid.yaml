@@ -24,3 +24,4 @@ payload:
 - PROCESS-NAME-WILDCARD,*pinterest*
 - PROCESS-NAME-WILDCARD,*linkedin*
 - PROCESS-NAME,org.torproject.torbrowser
+- PROCESS-NAME-WILDCARD,*murglar*
