@@ -10,3 +10,6 @@ payload:
 
   # === ShiftAtMidnight ===
 - PROCESS-NAME,ShiftAtMidnight.exe
+
+  # === Eternal Return ===
+- PROCESS-NAME,EternalReturn.exe
