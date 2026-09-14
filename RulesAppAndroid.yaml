@@ -27,3 +27,4 @@ payload:
 - PROCESS-NAME,org.torproject.torbrowser
 - PROCESS-NAME-WILDCARD,*murglar*
 - PROCESS-NAME-WILDCARD,*youtube*
+- PROCESS-NAME-WILDCARD,*CUE*
