@@ -16,3 +16,4 @@ payload:
 
   # === BF1 ===
 - PROCESS-NAME,bf1.exe
+- PROCESS-NAME,EADesktop.exe
