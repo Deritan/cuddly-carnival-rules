@@ -12,4 +12,7 @@ payload:
 - PROCESS-NAME,ShiftAtMidnight.exe
 
   # === Eternal Return ===
-- PROCESS-NAME,EternalReturn.exe
+- PROCESS-NAME,EternalReturn.exe\
+
+  # === BF1 ===
+- PROCESS-NAME,bf1.exe
