@@ -21,3 +21,6 @@ payload:
 
   # === Wardogs ===
 - PROCESS-NAME,WardogsClient-Win64-Shipping.exe
+
+  # === Arkheron ===
+- PROCESS-NAME,Arkheron.exe
