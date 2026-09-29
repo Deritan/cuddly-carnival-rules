@@ -30,3 +30,4 @@ payload:
 - PROCESS-NAME-WILDCARD,*CUE*
 - PROCESS-NAME-WILDCARD,*geminiassist*
 - PROCESS-NAME-WILDCARD,*chatboxapp*
+- PROCESS-NAME-WILDCARD,*fennec*
