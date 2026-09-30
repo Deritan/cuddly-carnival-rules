@@ -125,8 +125,8 @@ payload:
 # === ONLINE CINEMA ===
 - DOMAIN-SUFFIX,liftw.ws
 - DOMAIN-SUFFIX,safing.io
-
-
-
+# === AURORA STORE ===
+- DOMAIN-SUFFIX,exodus-privacy.eu.org
+- DOMAIN-SUFFIX,techlore.tech
 
 
