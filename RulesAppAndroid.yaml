@@ -31,3 +31,4 @@ payload:
 - PROCESS-NAME-WILDCARD,*geminiassist*
 - PROCESS-NAME-WILDCARD,*chatboxapp*
 - PROCESS-NAME-WILDCARD,*fennec*
+- PROCESS-NAME,com.akslabs.circletosearch
