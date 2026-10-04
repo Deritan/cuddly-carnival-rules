@@ -6,6 +6,7 @@ payload:
 - DOMAIN-SUFFIX,gvt2.com
 - DOMAIN-SUFFIX,play.googleapis.com
 - DOMAIN-SUFFIX,roms.danielspringer.at
+- DOMAIN-KEYWORD,gemini
 - DOMAIN-KEYWORD,rutracker
 - DOMAIN-KEYWORD,gravityshavings.net
 - DOMAIN-KEYWORD,deadorbit.net
