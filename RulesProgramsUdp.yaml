@@ -12,7 +12,7 @@ payload:
 - PROCESS-NAME,ShiftAtMidnight.exe
 
   # === Eternal Return ===
-- PROCESS-NAME,EternalReturn.exe\
+- PROCESS-NAME,EternalReturn.exe
 
   # === BF1 ===
 - PROCESS-NAME,bf1.exe
@@ -24,3 +24,6 @@ payload:
 
   # === Arkheron ===
 - PROCESS-NAME,Arkheron.exe
+
+  # === WWHF ===
+- PROCESS-NAME,We Were Here Tomorrow.exe
