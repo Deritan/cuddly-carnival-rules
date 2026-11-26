@@ -1,2 +1,3 @@
 payload:
 - PROCESS-NAME,flow.exe
+- PROCESS-NAME,chrome.exe
