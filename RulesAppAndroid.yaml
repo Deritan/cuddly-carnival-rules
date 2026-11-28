@@ -32,3 +32,5 @@ payload:
 - PROCESS-NAME-WILDCARD,*fennec*
 - PROCESS-NAME,com.akslabs.circletosearch
 - PROCESS-NAME,io.github.aedev.flow
+- PROCESS-NAME,com.x8bit.bitwarden
+
