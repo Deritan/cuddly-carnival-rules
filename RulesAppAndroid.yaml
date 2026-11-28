@@ -24,7 +24,6 @@ payload:
 - PROCESS-NAME-WILDCARD,*pinterest*
 - PROCESS-NAME-WILDCARD,*linkedin*
 - PROCESS-NAME,org.torproject.torbrowser
-- PROCESS-NAME-WILDCARD,*murglar*
 - PROCESS-NAME-WILDCARD,*youtube*
 - PROCESS-NAME-WILDCARD,*CUE*
 - PROCESS-NAME-WILDCARD,*geminiassist*
@@ -32,5 +31,3 @@ payload:
 - PROCESS-NAME-WILDCARD,*fennec*
 - PROCESS-NAME,com.akslabs.circletosearch
 - PROCESS-NAME,io.github.aedev.flow
-- PROCESS-NAME,com.x8bit.bitwarden
-
